@@ -8,6 +8,6 @@
     scanf ("%f", &a); 
 	printf("Input b: ") ;
     scanf ("%f", &b); 
-   
+    printf(" sum a+b = %f ", a + b );
         return 0;
  }
