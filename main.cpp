@@ -1,6 +1,6 @@
 #include "std.h"
 #include "stdio.h"
-
+//это учебная программа
  int main() 
  { 
    float a, b;
