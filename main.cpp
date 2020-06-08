@@ -10,5 +10,6 @@
     scanf ("%f", &b); 
     printf(" sum a+b = %f ", a + b );
 	printf(" raz a-b = %f ", a - b );
+	printf(" proiz a*b = %f ", a * b );
         return 0;
  }
